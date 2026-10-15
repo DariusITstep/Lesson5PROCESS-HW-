@@ -1,0 +1,15 @@
+X:\Work\GIT-LINKS\Lesson5PROCESS(HW)\Lesson5PROCESS(HW)\bin\Debug\net10.0\Lesson5PROCESS(HW).exe
+X:\Work\GIT-LINKS\Lesson5PROCESS(HW)\Lesson5PROCESS(HW)\bin\Debug\net10.0\Lesson5PROCESS(HW).deps.json
+X:\Work\GIT-LINKS\Lesson5PROCESS(HW)\Lesson5PROCESS(HW)\bin\Debug\net10.0\Lesson5PROCESS(HW).runtimeconfig.json
+X:\Work\GIT-LINKS\Lesson5PROCESS(HW)\Lesson5PROCESS(HW)\bin\Debug\net10.0\Lesson5PROCESS(HW).dll
+X:\Work\GIT-LINKS\Lesson5PROCESS(HW)\Lesson5PROCESS(HW)\bin\Debug\net10.0\Lesson5PROCESS(HW).pdb
+X:\Work\GIT-LINKS\Lesson5PROCESS(HW)\Lesson5PROCESS(HW)\obj\Debug\net10.0\Lesson5PROCESS(HW).GeneratedMSBuildEditorConfig.editorconfig
+X:\Work\GIT-LINKS\Lesson5PROCESS(HW)\Lesson5PROCESS(HW)\obj\Debug\net10.0\Lesson5PROCESS(HW).AssemblyInfoInputs.cache
+X:\Work\GIT-LINKS\Lesson5PROCESS(HW)\Lesson5PROCESS(HW)\obj\Debug\net10.0\Lesson5PROCESS(HW).AssemblyInfo.cs
+X:\Work\GIT-LINKS\Lesson5PROCESS(HW)\Lesson5PROCESS(HW)\obj\Debug\net10.0\Lesson5PROCESS(HW).csproj.CoreCompileInputs.cache
+X:\Work\GIT-LINKS\Lesson5PROCESS(HW)\Lesson5PROCESS(HW)\obj\Debug\net10.0\Lesson5PROCESS(HW).dll
+X:\Work\GIT-LINKS\Lesson5PROCESS(HW)\Lesson5PROCESS(HW)\obj\Debug\net10.0\refint\Lesson5PROCESS(HW).dll
+X:\Work\GIT-LINKS\Lesson5PROCESS(HW)\Lesson5PROCESS(HW)\obj\Debug\net10.0\Lesson5PROCESS(HW).pdb
+X:\Work\GIT-LINKS\Lesson5PROCESS(HW)\Lesson5PROCESS(HW)\obj\Debug\net10.0\Lesson5PROCESS(HW).genruntimeconfig.cache
+X:\Work\GIT-LINKS\Lesson5PROCESS(HW)\Lesson5PROCESS(HW)\obj\Debug\net10.0\ref\Lesson5PROCESS(HW).dll
+X:\Work\GIT-LINKS\Lesson5PROCESS(HW)\Lesson5PROCESS(HW)\obj\Debug\net10.0\Lesson5P.9ACEE4A1.Up2Date
